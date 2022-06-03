@@ -1,6 +1,4 @@
 pandas
 pdftotext
 nltk
-spcay
-nltk
 regex
